@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+.title .search{
+    width: 70%;
+    padding: 15px 0;
+    margin: 10px 0;
+    font-size: 15px;
+    font-weight: 600;
+    color: black;
+}
+.search_btn{
+    width: 28%;
+    font-size: 16px;
+    padding: 16px 0;
+    margin: 10px 0;
+    border: none;
+    color: #fff;
+    background: rgb(68, 68, 238);
+}
+.movie_card img{
+    width: 100%;
+}
+.movie_card h1{
+    font-size: 20px;
+    font-weight: 600;
+}
+.movie_card h2{
+    font-size: 20px;
+    font-weight: 600;
+}
+.movie_card h3{
+    font-size: 20px;
+    font-weight: 600;
+}
+.movie_card h4{
+    font-size: 20px;
+    font-weight: 600;
+}
+.movie_card h5{
+    font-size: 20px;
+    font-weight: 600;
+}
+.movie_card h6{
+    font-size: 20px;
+    font-weight: 600;
+}
